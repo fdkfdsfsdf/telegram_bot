@@ -1,6 +1,5 @@
 import telebot
 from pytube import YouTube
-import os
 
 bot = telebot.TeleBot('5459666217:AAHA-pPKRREIgkiK3n7hEiPBoGsCVve78X8')
 
